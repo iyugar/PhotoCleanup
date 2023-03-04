@@ -1,6 +1,6 @@
 # PhotoOrganizer
-This pogram assume that all the photos are dumped in a single folder without nested folders.
-This program rearranges an existing photo library by EXIF in the metadata.
+This pogram assumes that all the photos are dumped in a single folder without nested folders.
+This program rearranges an existing photo library by the EXIF metadata.
 This program will modify the old photo library and rename the files.
 This program will modify the each photo's created date in your system. 
 This is done so that NextCloud photos can display your pictures in chronological order.
