@@ -23,6 +23,7 @@ INSTRUCTIONS:
 1. Copy your photo library to the "oldPhotoLibrary" downloaded with this program 
 
 In the command line
+
 2. Change directory to the folder where you saved this repository
 3. Type "source bin/activate"
 4. Type "pip install -r requirements.txt"
